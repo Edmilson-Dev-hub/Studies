@@ -1,0 +1,17 @@
+-- insert into usuarios (nome, email) values ('Edmilson Gomes', 'edmilsonsantosg2@gmail.com');
+/*
+insert into usuarios
+  (nome, email) 
+values 
+  ('Mary Soares', 'Maricontato@rh.com');
+*/
+/*
+insert into usuarios
+  (nome, email) 
+values 
+  ('Samuel F', 'SamDesigner@sites.com');
+*/
+insert into usuarios
+  (nome, email) 
+values 
+  ('hamburguer', 'hamburguer@doido.com');

@@ -1,0 +1,8 @@
+--update usuarios 
+ -- set ativo = true
+--where id = 2;
+
+update usuarios
+  set nome = 'Mary soares de Jesus'
+where 
+  email = 'Maricontato@rh.com';

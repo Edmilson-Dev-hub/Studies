@@ -1,0 +1,7 @@
+--insert into usuarios(nome, email) values('gameover', 'RH@outlook.com');
+
+--update usuarios set delete_at = now() where email = 'RH@outlook.com';
+
+--select email from usuarios where delete_at is null;
+
+delete from usuarios where email = 'RH@outlook.com'
